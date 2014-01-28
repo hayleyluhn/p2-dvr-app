@@ -1,3 +1,9 @@
 .tabs dd {
 	width: 90px;
+
+}
+
+.tabs dd.active a {
+ background: #f0f;
+ transition: background .4s;
 }
